@@ -20,7 +20,7 @@ I am a passionate Java developer with a 3-year journey crafting robust solutions
 
 <h3 align="left">Let's code our way through innovation! 💡✨</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sameer-ali-%f0%9f%94%a5-android-mobile-app-developer-85893a181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-ali-%f0%9f%94%a5-android-mobile-app-developer-85893a181/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/sameer-ali-%f0%9f%94%a5-android-mobile-app-developer-85893a181/](https://www.linkedin.com/in/sameer-ali-85893a181/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-ali-%f0%9f%94%a5-android-mobile-app-developer-85893a181/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
