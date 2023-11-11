@@ -1,22 +1,24 @@
 [![MasterHead](https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif)]
 <h1 align="center">Hi 👋, I'm Sameer Ali</h1>
-<h3 align="center">A passionate Mobile app developer from Pakistan</h3>
+<h3 align="center">🚀 Java Developer & Android Enthusiast 📱</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 🔭 I’m currently working on **Write Right, which is an AI-based content writing tool for physically disabled people**
+I am a passionate Java developer with a 3-year journey crafting robust solutions. 🚀 My playground extends to the world of Android, where I thrive on turning ideas into sleek mobile applications using the dynamic duo of Java and Kotlin.
 
-- 🌱 I’m currently learning **Spring Boot**
+🌐 With a knack for Spring Boot, I've sculpted scalable backend systems, making waves in the digital realm. 💻 My journey on Upwork has been nothing short of exciting, completing over 40 projects and consistently earning the coveted "Top Rated" badge.
 
-- 👯 I’m looking to collaborate on **Java and Android projects**
+🛠️ Whether it's diving deep into Java's intricacies, dancing with Kotlin's elegance, or orchestrating systems with Spring Boot, I'm here to create seamless experiences and tackle challenges head-on.
 
-- 💬 Ask me about **Core Java and Android**
+- 🔭 I’m currently working on **FeastDive- A platform that reduces marketing cost and efforts of the restaurants**
+
+- 💬 Ask me about **Core Java, Android, and Spring Boot.**
 
 - 📫 How to reach me **sameeralii7860@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14BMW2taiuWjiTefqVtxTDaABTt-UiLBf/view?usp=share_link](https://drive.google.com/file/d/14BMW2taiuWjiTefqVtxTDaABTt-UiLBf/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's code our way through innovation! 💡✨</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sameer-ali-%f0%9f%94%a5-android-mobile-app-developer-85893a181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-ali-%f0%9f%94%a5-android-mobile-app-developer-85893a181/" height="30" width="40" /></a>
 </p>
