@@ -1,4 +1,6 @@
+[![MasterHead](https://cdn.dribbble.com/users/2084726/screenshots/11897843/media/f8a268a9e9a4cc3ab7b0c104a0301210.gif)]
 [![MasterHead](https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif)]
+
 <h1 align="center">Hi 👋, I'm Sameer Ali</h1>
 <h3 align="center">🚀 Java Developer & Android Enthusiast 📱</h3>
 
